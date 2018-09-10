@@ -1,2 +1,2 @@
 # first_try
-just try gh
+hello github
